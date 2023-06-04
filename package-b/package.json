@@ -1,5 +1,5 @@
 {
-  "name": "package-b",
+  "name": "@my-workspaces-powered-project/package-b",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "package-a": "^1.0.0"
+    "@my-workspaces-powered-project/package-a": "^1.0.0"
   }
 }

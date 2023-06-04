@@ -1,10 +1,10 @@
 {
-  "name": "my-workspaces-powered-project",
+  "name": "@my-workspaces-powered-project/root",
   "workspaces": [
     "package-a",
     "package-b"
   ],
   "dependencies": {
-    "package-a": "file:package-a"
+    "@my-workspaces-powered-project/package-a": "file:package-a"
   }
 }
