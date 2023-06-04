@@ -5,6 +5,6 @@
     "package-b"
   ],
   "dependencies": {
-    "package-a": "workspace:*"
+    "package-a": "my-workspaces-powered-project/package-a"
   }
 }
